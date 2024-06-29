@@ -33,3 +33,7 @@ This project uses the following dependencies:
 - React Icons
 - React Router DOM
 - TailwindCSS
+
+## Live Link
+
+`https://vediotube.onrender.com`
